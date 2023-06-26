@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-bi23-team/",
+    "build": "vite build --base=/html-css-89-project-bi23-team/",
     "preview": "vite preview"
   },
   "devDependencies": {
